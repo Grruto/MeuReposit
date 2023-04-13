@@ -1,5 +1,5 @@
 # MeuReposit
-Oque eu quiser 
+## **Oque eu quiser** 
 # GIT-INIT
 
 # Visão geral
@@ -23,7 +23,7 @@ Conhecimento básico de informática.
 
 # Módulos
 
-Introdução ao Git e Github 
+## Introdução ao Git e Github 
 O que é o Git
 Por que é importante para programadores
 O que é Github
